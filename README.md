@@ -5,7 +5,7 @@
 
 
 </pre>
-- 🔭 I’m currently working on **Lamborgini Website clone**
+- 🔭 I’m currently working on **Lamborgini Website's clone**
 
 - 🌱 I’m currently learning **Java, Spring boot, MERN stack**
 
