@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/omshrikhande" target="blank"><img src="https://img.shields.io/twitter/follow/omshrikhande?logo=twitter&style=for-the-badge" alt="omshrikhande" /></a> </p>
 
-- 🔭 I’m currently working on **Lamborgini Website clone**
+- 🔭 I’m currently working on **Gym Management System**
 
 - 🌱 I’m currently learning **Java, Spring boot, MERN stack**
 
-- 👯 I’m looking to collaborate on **a React project**
+- 👯 I’m looking to collaborate on **a React native project**
 
-- 🤝 I’m looking for help with **a gaming website**
+- 🤝 I’m looking for help with **a  roulette game**
 
-- 💬 Ask me about **Basic frontend devlopment**
+- 💬 Ask me about **App devlopment**
 
-- 📫 How to reach me **om.shrikhande.08@gmail.com**
+- 📫 How to reach me **omshrikhande73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
