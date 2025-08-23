@@ -128,8 +128,6 @@ const om = {
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -139,35 +137,6 @@ const om = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/OmShrikhande/OmShrikhande/blob/output/github-snake-dark.svg" />
 </picture>
 
-> ⚡ **To enable the snake animation**, add this GitHub Action to your repo at `.github/workflows/snake.yml`:
-
-<details>
-<summary>📋 Click to copy the Snake Action YAML</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - run: git config user.name "github-actions[bot]" && git config user.email "github-actions[bot]@users.noreply.github.com" && git add dist && git commit -m "Generate snake animation" || true && git push
-```
-</details>
 
 </div>
 
