@@ -21,10 +21,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push to dist branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: dist
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
