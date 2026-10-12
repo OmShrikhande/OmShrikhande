@@ -41,7 +41,7 @@ const om = {
     database:  ["MongoDB", "MySQL", "Firebase"],
     languages: ["JavaScript", "TypeScript", "Java", "Python"],
   },
-  currentlyBuilding: "Gym management system + Bus tracker app",
+  currentlyBuilding: "Algo Trading Bot (ROXY) and Hospital Manaement System",
   openTo: "React Native & MERN collaborations",
   philosophy: "Ship products, not just code 🔥"
 };
